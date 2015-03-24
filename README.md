@@ -2,6 +2,8 @@
 
 ## Devhunter ![Coverage](https://img.shields.io/teamcity/coverage/bt1242.svg)
 
+[![Join the chat at https://gitter.im/secbi-ucc/secbi-web-app](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/secbi-ucc/secbi-web-app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/devhunterco)
 
 
